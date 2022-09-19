@@ -1,44 +1,44 @@
 {
   "name": "CYBER-X 1.5 BETA",
   "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
-  "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
+  "repository": "https://github.com/visudya/CYBER-X-BETA-1.5.1-RELEASE-",
   "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "94717120796"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "CYBER-X MALSHAN 1.5"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "94703490993"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "CYBER-X MALSHAN"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
-			},
+			"value": "KING SHANA"
+			},❤️
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "CYBER-X MALSHAN 1.5"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/2b307a7ca8ee5d83effcd.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
@@ -48,7 +48,7 @@
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/2b307a7ca8ee5d83effcd.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
@@ -63,7 +63,7 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "CYBER-X MALSHAN OFFICIAL"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -73,12 +73,12 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "94717120796"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
 			"required": true,
-			"value": "UPLOADING YOUR SONG PLEASE WAIT..."
+			"value": "චුට්ටක් ඉන්න හොදේ 😁. සින්දුව දෙන්නම් ..."
 			},
 			"WELCOME_GOODBYE": {
 			"description": "Set 'true' if you want the Welcome and Goodbye massages  add 'false' if you don't",
@@ -88,12 +88,12 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "KING SHANA"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
 			"required": true,
-			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
+			"value": "Sri Lanka, Hambanthota,Sooriyawewa"
 			},
 			"CALL_BLOCK": {
 			"description": "Call Block system",
